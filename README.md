@@ -6,6 +6,20 @@ ImageBrain is a powerful, privacy-first AI photo organizer that understands your
 
 ---
 
+<table>
+  <tr>
+
+<td><img src="Media/ver-0-0.jpg" alt="A snapshot of the app: Image Brain, version 0.0" width="400"/>
+Figure 1: A snapshot of the app: Image Brain, version 0.0.</td>
+    
+<td><img src="Media/ver-0-0-dark.jpg" alt="A snapshot of the app in Dark Mode, version 0.0" width="400"/>
+Figure 2: A snapshot of the the app in Dark Mode.</td>
+
+  </tr>
+</table>
+
+---
+
 ## ✨ Features
 
 ### 🧠 The Bilingual Brain
